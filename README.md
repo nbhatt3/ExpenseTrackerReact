@@ -1,3 +1,6 @@
+## A Expense Tracker project created using REACTJS , without DB connection.
+## it is simple and easy to use.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
